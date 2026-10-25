@@ -1,0 +1,7 @@
+---
+description: Apply the VEDMAN life and CEO operating system when explicitly invoked
+alwaysApply: false
+---
+
+Read `skills/vedman/SKILL.md` as the canonical VEDMAN instruction set. Load only the reference files relevant to the current task. Never commit or expose `skills/vedman/private-profile.md`.
+
