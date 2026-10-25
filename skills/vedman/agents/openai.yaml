@@ -1,0 +1,4 @@
+interface:
+  display_name: "VEDMAN"
+  short_description: "Complete life and CEO operating system"
+  default_prompt: "Use $vedman to analyze this situation, challenge my thinking, and convert it into a clear decision and execution plan."
